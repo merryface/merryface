@@ -3,7 +3,7 @@ Welcome to my GitHub account! Did you know that you can have a README.md on your
 
 This GitHub page is still a work in process, but here's what I got so far!
 
-- 🌱 I’m currently learning about React-saga
+- 🌱 I’m currently learning how to use React with Firebase
 - 🤔 I’m looking for help with advanced React use and WordPress
 - 💬 Ask me where I'm from!
 - 📫 How to reach me: [tarikmerrylees@gmail.com](mailto:tarikmerrylees@gmail.com)
