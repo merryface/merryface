@@ -18,7 +18,7 @@ This GitHub page is still a work in process, but here's what I got so far!
 An Alpaca rental website (yes you read that right), [Alpocalypso](https://github.com/merryface/Alpacalyptic) is a group project where users can choose between several Alpacas, each of which have a special talent. Click on the random alpaca fact in the header at your own risk (if your sound is on in any case). Warning: website may in fact, not actually rent out real alpacas.
 
 ## [Appy Wrapping](https://github.com/appy-wrapping)
-is the perfect tool for someone who is in the habit of losing shopping lists around christmas time. [Appy Wrapping](https://github.com/appy-wrapping) is a Christmas shopping list app where you can add presents and their costs, and whether you have purchased them or not. if you exit your set budget, the total cost turns red. Merry Christmas!
+is the perfect tool for someone who is in the habit of losing shopping lists around christmas time. [Appy Wrapping](https://github.com/appy-wrapping) is a Christmas shopping list app where you can add presents and their costs, and whether you have purchased them or not. if you exceed your set budget, the total cost turns red. Merry Christmas!
 
 
 <!--
